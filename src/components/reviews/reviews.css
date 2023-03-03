@@ -1,0 +1,8 @@
+.content .texts .p-review {
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+.reviews .content .wrapper {
+  overflow: visible;
+  height: fit-content;
+}

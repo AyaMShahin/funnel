@@ -1,0 +1,13 @@
+h2 {
+  font-size: 2rem;
+}
+.main-content .understand {
+  font-size: 1.25rem;
+}
+.main-content ul {
+  padding-left: 2rem;
+}
+.main-content img {
+  border-radius: 10px;
+  width: inherit;
+}

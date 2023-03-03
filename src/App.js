@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Ceo from "./components/ceo/Ceo";
+import CustomerData from "./components/customerData/CustomerData";
+import Dashboards from "./components/dashboards/Dashboards";
+import Features from "./components/features/Features";
+import Founders from "./components/founders/Founders";
+import Funnelflow from "./components/funnelFlow/Funnelflow";
+import Integrations from "./components/integration/Integrations";
+import Sitenavbar from "./components/navbar/Sitenavbar";
+import Reviews from "./components/reviews/Reviews";
+import SecondCEO from "./components/secondCEO/SecondCEO";
+import SiteFooter from "./components/siteFooter/SiteFooter";
+import Siteheader from "./components/siteHeader/Siteheader";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Sitenavbar />
+      <Siteheader />
+      <Founders />
+      <Dashboards />
+      <Funnelflow />
+      <Ceo />
+      <CustomerData />
+      <Integrations />
+      <SecondCEO />
+      <Features />
+      <Reviews />
+      <SiteFooter />
     </div>
   );
 }

@@ -1,0 +1,43 @@
+.container {
+  max-width: 90% !important;
+}
+.navbar {
+  background-color: #263238;
+  border-bottom-width: 2px;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+#home {
+  color: #fff !important;
+}
+#home:hover {
+  font-weight: bold;
+}
+.nav-link,
+.nav-color {
+  color: rgba(255, 255, 255, 0.55) !important;
+  font-size: 1.2rem !important;
+}
+.nav-link:hover,
+.nav-color:hover {
+  color: rgba(255, 255, 255, 0.75) !important;
+  font-weight: bold;
+}
+.btn-main {
+  /* color: #fff; */
+  background-color: #61a22e !important;
+  border-color: #74c633 !important;
+  padding: 12px !important;
+  transition: 0.4s ease-in-out;
+}
+.btn-main:hover {
+  background-color: #fff !important;
+  color: #61a22e !important;
+  font-weight: bold;
+}
+.login {
+  background-color: transparent !important;
+  border: 0 !important;
+}
+.navbar-toggler-icon {
+  background-image: url(/public/assets/images/download.svg) !important;
+}

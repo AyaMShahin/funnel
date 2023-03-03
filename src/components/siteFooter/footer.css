@@ -1,0 +1,12 @@
+footer {
+  background-color: #000;
+}
+footer .list {
+  list-style-type: none;
+}
+footer .list a:hover,
+footer .last .texts a:hover {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}

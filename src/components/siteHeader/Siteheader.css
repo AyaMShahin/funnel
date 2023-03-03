@@ -1,0 +1,29 @@
+header {
+  margin-bottom: -4rem !important;
+}
+.texts .head-text {
+  font-size: calc(3.5rem + 1.5vw);
+  color: #fff;
+}
+.texts .head-text span {
+  color: #74c633;
+}
+.btns a {
+  color: #fff !important;
+}
+.btns .demo {
+  background-color: inherit;
+  border-color: #fff;
+  padding: 12px 25px;
+}
+.wrapper {
+  padding-bottom: 56.25%;
+  height: 0;
+}
+iframe {
+  border-radius: 15px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

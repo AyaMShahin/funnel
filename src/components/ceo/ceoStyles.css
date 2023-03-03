@@ -1,0 +1,20 @@
+.main-content .ceo-desc,
+.reviews .content .wrapper {
+  padding: 3%;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(261.71deg, #485a63 13.92%, #2c3c44 84.19%);
+  border-radius: 10px;
+}
+
+.main-content .ceo-desc img,
+.reviews .content img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.main-content .ceo-desc h2 {
+  font-weight: 300;
+  line-height: 1.5;
+}
