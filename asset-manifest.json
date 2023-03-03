@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/funnel/static/css/main.09d6eade.css",
-    "main.js": "/funnel/static/js/main.12872e2b.js",
+    "main.js": "/funnel/static/js/main.465caaea.js",
     "static/js/787.daf24aea.chunk.js": "/funnel/static/js/787.daf24aea.chunk.js",
     "index.html": "/funnel/index.html",
     "static/media/download.svg": "/funnel/static/media/download.53b777c5e4b5c9d35af3.svg",
     "main.09d6eade.css.map": "/funnel/static/css/main.09d6eade.css.map",
-    "main.12872e2b.js.map": "/funnel/static/js/main.12872e2b.js.map",
+    "main.465caaea.js.map": "/funnel/static/js/main.465caaea.js.map",
     "787.daf24aea.chunk.js.map": "/funnel/static/js/787.daf24aea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09d6eade.css",
-    "static/js/main.12872e2b.js"
+    "static/js/main.465caaea.js"
   ]
 }
