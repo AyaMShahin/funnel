@@ -6,6 +6,7 @@ import Features from "./components/features/Features";
 import Founders from "./components/founders/Founders";
 import Funnelflow from "./components/funnelFlow/Funnelflow";
 import Integrations from "./components/integration/Integrations";
+import SiteModal from "./components/modal/SiteModal";
 import Sitenavbar from "./components/navbar/Sitenavbar";
 import Reviews from "./components/reviews/Reviews";
 import SecondCEO from "./components/secondCEO/SecondCEO";
@@ -16,6 +17,7 @@ function App() {
   return (
     <div className="App">
       <Sitenavbar />
+      <SiteModal />
       <Siteheader />
       <Founders />
       <Dashboards />

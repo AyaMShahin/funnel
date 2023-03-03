@@ -9,7 +9,7 @@ const Integrations = () => {
           <div className="col-lg-7">
             <img
               className="mt-2"
-              src={"/assets/images/integrations.png"}
+              src={"/funnel/assets/images/integrations.png"}
               alt="Channel Performance"
             ></img>
           </div>

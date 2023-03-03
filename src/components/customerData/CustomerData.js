@@ -37,7 +37,7 @@ const CustomerData = () => {
           <div className="col-lg-7">
             <img
               className="mt-5 mt-lg-0"
-              src={"/assets/images/track-actions.png"}
+              src={"/funnel/assets/images/track-actions.png"}
               alt="Get Insights"
             ></img>
           </div>

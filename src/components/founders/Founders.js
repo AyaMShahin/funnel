@@ -10,7 +10,7 @@ function Founders() {
         <div className="brands row pt-lg-1 mt-3 align-items-center">
           <div className="col-lg-3">
             <img
-              src={"/assets/images/500Startupslogo.png"}
+              src={"/funnel/assets/images/500Startupslogo.png"}
               alt="500 startups logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -18,7 +18,7 @@ function Founders() {
 
           <div className="col-lg-3 mt-3">
             <img
-              src={"/assets/images/saasmantra.png"}
+              src={"/funnel/assets/images/saasmantra.png"}
               alt="saas mantra logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -26,7 +26,7 @@ function Founders() {
 
           <div className="col-lg-3 mt-3">
             <img
-              src={"/assets/images/gameball.png"}
+              src={"/funnel/assets/images/gameball.png"}
               alt="gameball logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -34,7 +34,7 @@ function Founders() {
 
           <div className="col-lg-3 mt-3">
             <img
-              src={"/assets/images/vivelo.png"}
+              src={"/funnel/assets/images/vivelo.png"}
               alt="vivelo logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -44,7 +44,7 @@ function Founders() {
         <div className="brands row mt-2 pt-lg-1 mt-3 align-items-center">
           <div className="col-lg-3">
             <img
-              src={"/assets/images/funding.png"}
+              src={"/funnel/assets/images/funding.png"}
               alt="funding logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -52,7 +52,7 @@ function Founders() {
 
           <div className="col-lg-3 mt-3">
             <img
-              src={"/assets/images/daveparker.png"}
+              src={"/funnel/assets/images/daveparker.png"}
               alt="dave parker logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -60,7 +60,7 @@ function Founders() {
 
           <div className="col-lg-3 mt-3">
             <img
-              src={"/assets/images/frozenlemon.png"}
+              src={"/funnel/assets/images/frozenlemon.png"}
               alt="frozen lemon logo"
               style={{ maxHeight: 55 }}
             ></img>
@@ -68,7 +68,7 @@ function Founders() {
 
           <div className="col-lg-3 mt-3">
             <img
-              src={"/assets/images/fundraisingforacause.png"}
+              src={"/funnel/assets/images/fundraisingforacause.png"}
               alt="fund raising foracause logo"
               style={{ maxHeight: 55 }}
             ></img>

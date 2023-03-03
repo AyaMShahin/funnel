@@ -37,6 +37,7 @@
 .login {
   background-color: transparent !important;
   border: 0 !important;
+  text-decoration: none;
 }
 .navbar-toggler-icon {
   background-image: url(/public/assets/images/download.svg) !important;

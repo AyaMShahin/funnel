@@ -1,11 +1,47 @@
-.btn-close {
-  background-color: transparent !important;
-  border-radius: 50% !important;
-  border: 0 !important;
-  color: #74c633 !important;
-  font-size: 20px !important;
+#icons-tab a {
+  font-size: 25px !important;
+  margin: 30px !important;
+  color: #61a22e !important;
+  transition: 0.3s all !important;
 }
 
+#icons-tab a:hover {
+  font-size: 25px !important;
+  margin: 30px !important;
+  color: #7ad336 !important;
+}
+
+#form-signup {
+  background-color: #61a22e !important;
+  border: none !important;
+  transition: 0.2s all !important;
+}
+
+#form-signup:hover {
+  background-color: #7ad336 !important;
+}
+
+.modal-header {
+  direction: rtl !important;
+}
+
+.close {
+  background-color: #61a22e !important;
+  color: white;
+  border-radius: 50% !important;
+  padding: 10px !important;
+  width: 20px !important;
+  height: 20px !important;
+  border: none !important;
+  transition: 0.2s all !important ;
+}
+.close:hover {
+  background-color: #7ad336 !important;
+}
+
+#closex {
+  font-size: 10px !important;
+}
 .social-button {
   background-position: 25px 0;
   box-sizing: border-box;

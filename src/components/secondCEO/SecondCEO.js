@@ -8,7 +8,10 @@ const SecondCEO = () => {
       <Container>
         <div className="main-content row align-items-center text-center">
           <div className="col-lg-10 ceo-desc m-auto">
-            <img src={"/assets/images/jordan.png"} alt="funnel ceo"></img>
+            <img
+              src={"/funnel/assets/images/jordan.png"}
+              alt="funnel ceo"
+            ></img>
 
             <div className="texts mt-3">
               <h3 className=" f-small">

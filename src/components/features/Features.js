@@ -15,7 +15,7 @@ const Features = () => {
                 <div className="col-lg-3 my-4">
                   <img
                     className="circle-icon"
-                    src={"/assets/images/checked--acid.svg"}
+                    src={"/funnel/assets/images/checked--acid.svg"}
                     alt="circle icon"
                   ></img>
                   <span> Measure what matters</span>
@@ -24,7 +24,7 @@ const Features = () => {
                 <div className="col-lg-3 my-4">
                   <img
                     className="circle-icon"
-                    src={"/assets/images/checked--acid.svg"}
+                    src={"/funnel/assets/images/checked--acid.svg"}
                     alt="circle icon"
                   ></img>
                   <span> Visualize customer journeys</span>
@@ -33,7 +33,7 @@ const Features = () => {
                 <div className="col-lg-3 my-4">
                   <img
                     className="circle-icon"
-                    src={"/assets/images/checked--acid.svg"}
+                    src={"/funnel/assets/images/checked--acid.svg"}
                     alt="circle icon"
                   ></img>
                   <span> Answer your questions</span>

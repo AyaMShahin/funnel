@@ -32,7 +32,7 @@ const Dashboards = () => {
           <div className="col-lg-7">
             <img
               className="mt-5 mt-lg-0 px-lg-5"
-              src={"/assets/images/answers.png"}
+              src={"/funnel/assets/images/answers.png"}
               alt="Get Insights"
             ></img>
           </div>

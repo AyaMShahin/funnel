@@ -1,17 +1,15 @@
-import React, { useState } from "react";
+import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Sitenavbar.css";
 import { Container, Nav, Navbar, Form, Button } from "react-bootstrap";
-import SiteModal from "../modal/SiteModal";
+// import SiteModal from "../modal/SiteModal";
 function Sitenavbar() {
-  const [show, setShow] = useState(false);
-
   return (
     <Navbar className="pt-3" expand="lg">
       <Container>
         <Navbar.Brand href="#home">
           <img
-            src={"/assets/images/white-logo-sidebyside.png"}
+            src={"/funnel/assets/images/white-logo-sidebyside.png"}
             alt="logo"
             width="200"
           />
@@ -28,10 +26,14 @@ function Sitenavbar() {
           </Nav>
           <Form className="form">
             <Button className="mr-3 btn-main">Get Started Free</Button>
-            <Button className="login nav-color" onClick={() => setShow(true)}>
+            <a
+              className="login nav-color"
+              href="http"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModalCenter"
+            >
               Login
-            </Button>
-            <SiteModal show={show} close={() => setShow(false)} />
+            </a>
           </Form>
         </Navbar.Collapse>
       </Container>

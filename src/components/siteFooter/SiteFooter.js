@@ -7,8 +7,14 @@ const SiteFooter = () => {
       <Container>
         <div className="row">
           <div className="col-lg-3 pe-4">
-            <img src={"/assets/images/logo-icon.png"} alt="logo icon"></img>
-            <img src={"/assets/images/logo-text.png"} alt="logo text"></img>
+            <img
+              src={"/funnel/assets/images/logo-icon.png"}
+              alt="logo icon"
+            ></img>
+            <img
+              src={"/funnel/assets/images/logo-text.png"}
+              alt="logo text"
+            ></img>
 
             <div className="texts mt-3">
               <p>
@@ -208,7 +214,10 @@ const SiteFooter = () => {
           </div>
 
           <div className="col-lg-3 pe-4 text-center last">
-            <img src={"/assets/images/featured.svg"} alt="featured"></img>
+            <img
+              src={"/funnel/assets/images/featured.svg"}
+              alt="featured"
+            ></img>
 
             <div className="texts text-center mt-5">
               <h3 className="f-small">For partnership enquiries contact</h3>
@@ -225,7 +234,7 @@ const SiteFooter = () => {
               <div className="mt-4 ps-5 ms-4">
                 <a href="https://sur.ly/i/funnelll.com/">
                   <img
-                    src={"/assets/images/funnelfooter.PNG"}
+                    src={"/funnel/assets/images/funnelfooter.PNG"}
                     alt="funnel"
                     height={160}
                   ></img>

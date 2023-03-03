@@ -10,7 +10,7 @@ const Reviews = () => {
         <div className="row justify-content-center">
           <div className="col-lg-4 text-center content mt-5">
             <div className="wrapper">
-              <img src={"/assets/images/greg.png"} alt="greg"></img>
+              <img src={"/funnel/assets/images/greg.png"} alt="greg"></img>
 
               <div className="texts mt-3">
                 <h3 className=" f-small">
@@ -38,7 +38,10 @@ const Reviews = () => {
 
           <div className="col-lg-4 mt-lg-2 mt-5 text-center content">
             <div className="wrapper">
-              <img src={"/assets/images/square-ysl6hps.png"} alt="Philip"></img>
+              <img
+                src={"/funnel/assets/images/square-ysl6hps.png"}
+                alt="Philip"
+              ></img>
 
               <div className="texts mt-3">
                 <h3 className="f-normal">
@@ -60,7 +63,7 @@ const Reviews = () => {
           <div className="col-lg-4 text-center content mt-5">
             <div className="wrapper">
               <img
-                src={"/assets/images/carlos-ubaldo-profile-picture.png"}
+                src={"/funnel/assets/images/carlos-ubaldo-profile-picture.png"}
                 alt="carlos"
               ></img>
 

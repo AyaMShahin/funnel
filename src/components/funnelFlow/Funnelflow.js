@@ -9,7 +9,7 @@ const Funnelflow = () => {
           <div className="col-lg-7">
             <img
               className="mt-2"
-              src={"/assets/images/funnel.png"}
+              src={"/funnel/assets/images/funnel.png"}
               alt="Channel Performance"
             ></img>
           </div>
